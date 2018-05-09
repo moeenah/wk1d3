@@ -14,6 +14,7 @@ function charPosition(string) {
 
       count[letter] = numTimes;
 
+
     }
   }
 
